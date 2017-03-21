@@ -1,0 +1,12 @@
+[
+  {
+    "id": "app.welcome",
+    "description": "Welcome Message",
+    "defaultMessage": "Welcome to React"
+  },
+  {
+    "id": "app.to_get_started",
+    "description": "Getting Started",
+    "defaultMessage": "To get started, edit {filename} and save to reload."
+  }
+]
