@@ -4,3 +4,10 @@ This is an example of using using [react-intl](https://github.com/yahoo/react-in
 
 It will accompany [this future blog post](https://mikebridge.github.io/typescript-i18n-react-intl/).
 
+## Usage
+
+```bash
+$ npm install
+
+$ npm start
+```

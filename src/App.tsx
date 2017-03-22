@@ -18,15 +18,15 @@ class App extends React.Component<null, null> {
         <p className="App-intro">
             <FormattedMessage id="app.to_get_started"
                               defaultMessage="To get started, edit {filename} and save to reload."
-                              values={{ filename: '<code>src/App.tsx</code>' }}
+                              values={{ filename: <code>src/App.tsx</code> }}
                               description="Getting Started" />
 
         </p>
         <p>
             <FormattedDate value={new Date()}
-                           year='numeric'
-                           month='long'
-                           day='2-digit'/>
+                           year="numeric"
+                           month="long"
+                           day="2-digit"/>
 
 
         </p>
